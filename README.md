@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi there! I'm Sina  
 
-<!--
-**sinmiross/sinmiross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Passionate about Frontend & Backend Development with Python & Django
+📊 Next goal: stepping into the world of AI & Data Science
+✨ Always learning , always building  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+Languages : Python, HTML, CSS  
+Frameworks : TailwindCSS  
+Tools : Git, GitHub 
+Others : WordPress  
+
+---
+
+📂 Projects
+🐍 [Python Practice Projects](link-to-repo)  
+🎨 [Frontend Samples (HTML/CSS)](link-to-repo)  
+
+---
+
+📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinmiross&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinmiross&layout=compact&theme=radical)  
+
+
+---
+
+📫 Contact
+📧 [Email](mailto:sina.sammaki.alfa@gmail.com)  
+💬 [Telegram](t.me/sin_miross)  
+
+
